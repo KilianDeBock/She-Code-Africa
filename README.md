@@ -1,2 +1,1 @@
-# She Code Africa
- She Code Africa
+# https://kiliandebock.github.io/She-Code-Africa/
